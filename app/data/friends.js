@@ -52,16 +52,16 @@ var friendsArray = [
 		name: 'Macaulay Culkin',
 		photo: 'https://images.hellogiggles.com/uploads/2017/06/23073021/macaulayculkin5.jpg',
 		scores: [
-			'5',
-			'1',
 			'2',
-			'1',
-			'3',
-			'4',
-			'1',
-			'3',
-			'3',
-			'4'
+			'2',
+			'2',
+			'2',
+			'2',
+			'2',
+			'2',
+			'2',
+			'2',
+			'2'
 		]
 	},
 	{
