@@ -4,16 +4,16 @@ var friendsArray = [
 		name: 'Darth Vader',
 		photo: 'https://boygeniusreport.files.wordpress.com/2015/08/darth-vader.jpg?quality=98&strip=all&w=500',
 		scores: [
+			'5',
+			'5',
+			'4',
 			'1',
+			'1',
+			'2',
 			'5',
 			'5',
 			'1',
-			'5',
-			'5',
-			'1',
-			'1',
-			'1',
-			'5'
+			'1'
 		]
 	},
 	{
@@ -70,13 +70,13 @@ var friendsArray = [
 		scores: [
 			'1',
 			'1',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
+			'1',
 			'1'
 		]
 	},
@@ -84,16 +84,16 @@ var friendsArray = [
 		name: 'Kermit the Frog',
 		photo: 'https://www.wnd.com/files/2011/11/kermit-frog-muppets.jpg',
 		scores: [
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5'
+			'3',
+			'3',
+			'3',
+			'3',
+			'3',
+			'3',
+			'3',
+			'3',
+			'3',
+			'3'
 		]
 	},
 ];
